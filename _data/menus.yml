@@ -1,0 +1,11 @@
+---
+main:
+- url: "/students"
+  title: Students
+  weight: 1
+- url: "/curriculum,"
+  title: Curriculum
+  weight: 3
+- url: "/enrollment"
+  title: Enrollment
+  weight: 4
