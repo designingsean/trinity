@@ -1,0 +1,13 @@
+---
+main:
+  - url: /
+    title: Home
+  - url: /enrollment
+    title: Enrollment
+  - url: /curriculum,
+    title: Curriculum
+  - url: /faculty
+    title: Faculty
+  - url: /students
+    title: Students
+---
