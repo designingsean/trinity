@@ -1,3 +1,5 @@
+---
+---
 * {
   box-sizing: border-box; }
 
@@ -92,7 +94,7 @@ img {
   width: calc(25% - 25px);
   float: left;
   margin-left: 20px;
-  background: transparent url(/uploads/laptop.jpg) no-repeat center 15%/cover; }
+  background: transparent url(/uploads/{{ site.data.global.image1 }}) no-repeat center 15%/cover; }
   @media screen and (max-width: 846px) {
     .header__image-1 {
       width: calc(50% - 30px);
@@ -104,45 +106,45 @@ img {
       float: left;
       margin-left: 20px; } }
 
-.header__image-3 {
+.header__image-2 {
   width: calc(33.3333333333% - 26.6666666667px);
   float: left;
   margin-left: 20px;
-  background: transparent url(/uploads/friends.jpg) no-repeat center 15%/cover; }
+  background: transparent url(/uploads/{{ site.data.global.image2 }}) no-repeat center 15%/cover; }
   @media screen and (max-width: 846px) {
-    .header__image-3 {
+    .header__image-2 {
       width: calc(50% - 30px);
       float: left;
       margin-left: 20px; } }
   @media screen and (max-width: 573px) {
+    .header__image-2 {
+      display: none; } }
+
+.header__image-3 {
+  width: calc(41.6666666667% - 28.3333333333px);
+  float: left;
+  margin-left: 20px;
+  background: transparent url(/uploads/{{ site.data.global.image3 }}) no-repeat center 15%/cover; }
+  @media screen and (max-width: 846px) {
     .header__image-3 {
       display: none; } }
 
+.header__image-4 {
+  width: calc(41.6666666667% - 28.3333333333px);
+  float: left;
+  margin-left: 20px;
+  background: transparent url(/uploads/{{ site.data.global.image4 }}) no-repeat center 15%/cover; }
+  @media screen and (max-width: 846px) {
+    .header__image-4 {
+      display: none; } }
+
 .header__image-5 {
-  width: calc(41.6666666667% - 28.3333333333px);
-  float: left;
-  margin-left: 20px;
-  background: transparent url(/uploads/dance.jpg) no-repeat center 15%/cover; }
-  @media screen and (max-width: 846px) {
-    .header__image-5 {
-      display: none; } }
-
-.header__image-6 {
-  width: calc(41.6666666667% - 28.3333333333px);
-  float: left;
-  margin-left: 20px;
-  background: transparent url(/uploads/fieldtrip.jpg) no-repeat center 15%/cover; }
-  @media screen and (max-width: 846px) {
-    .header__image-6 {
-      display: none; } }
-
-.header__image-8 {
   width: calc(58.3333333333% - 31.6666666667px);
   float: left;
   margin-left: 20px;
-  background: transparent url(/uploads/middle.jpg) no-repeat center 15%/cover; }
+  background: transparent url(/uploads/{{ site.data.global.image5 }}) no-repeat center 15%/cover; }
   @media screen and (max-width: 846px) {
-    .header__image-8 {
+    .header__image-5 {
       width: calc(100% - 40px);
       float: left;
       margin-left: 20px; } }

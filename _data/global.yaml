@@ -1,0 +1,21 @@
+---
+name: Trinity Classical Academy
+phone: (843) 327-7444
+email: tcasummerville@gmail.com
+address:
+  physical:
+    address: 118 West 3rd South Street
+    city: Summerville
+    state: SC
+    zip: 29483
+  mailing:
+    address: P.O. Box 3169
+    city: Summerville
+    state: SC
+    zip: 29484
+logo: tcalogo.png
+image1: laptop.jpg
+image2: friends.jpg
+image3: dance.jpg
+image4: fieldtrip.jpg
+image5: middle.jpg

@@ -3,18 +3,18 @@
     <div class="container">
       <div class="footer__column">
         <h2>Contact Us</h2>
-        <p>(843) 327-7444<br>
-        <a href="mailto:tcasummerville@gmail.com">tcasummerville@gmail.com</a></p>
+        <p>{{ site.data.global.phone }}<br>
+        <a href="mailto:{{ site.data.global.email }}">{{ site.data.global.email }}</a></p>
       </div>
       <div class="footer__column">
         <h2>Physical Address</h2>
-        <p>118 West 3rd South Street<br>
-        Summerville, SC 29483</p>
+        <p>{{ site.data.global.address.physical.address }}<br>
+          {{ site.data.global.address.physical.city }}, {{ site.data.global.address.physical.state }} {{ site.data.global.address.physical.zip }}</p>
       </div>
       <div class="footer__column">
         <h2>Mailing Address</h2>
-        <p>P.O. Box 3169<br>
-        Summerville, SC 29484</p>
+        <p>{{ site.data.global.address.mailing.address }}<br>
+          {{ site.data.global.address.mailing.city }}, {{ site.data.global.address.mailing.state }} {{ site.data.global.address.mailing.zip }}</p>
       </div>
     </div>
   </div>
@@ -23,7 +23,7 @@
       <a class="footer__link" href="/">Home</a><a class="footer__link" href="/enrollment">Enrollment</a><a class="footer__link" href="/curriculum">Curriculum</a><a class="footer__link" href="/faculty">Faculty</a><a class="footer__link" href="/students">Students</a>
     </div>
     <div class="footer__copyright">
-      &copy; 2017-2018 Trinity Classical Academy
+      &copy; 2017-2019 {{ site.data.global.name }}
     </div>
   </div>
 </div>
