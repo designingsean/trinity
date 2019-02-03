@@ -10,9 +10,6 @@ sections:
   create: none
   match: "**/*"
   new_doc_ext: html
-- type: jekyll-posts
-  label: Posts
-  create: all
 - type: jekyll-pages
   label: Pages
   create: all
