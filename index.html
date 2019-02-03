@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Home
 introduction: Trinity Classical Academy provides elementary and middle school students with an academically rigorous, classical Christian education in partnership with parents.
 highlights:
@@ -17,3 +17,25 @@ contents:
   - title: Technology
     content: Technology is strategically and thoughtfully integrated throughout the curriculum to foster communication, collaboration, and critical thinking.
 ---
+<div class="home__highlight--full">
+  <div class="container">
+    <p>{{ page.introduction }}</p>
+  </div>
+</div>
+<div class="container">
+  {% for item in page.highlights %}
+  <div class="home__highlight">
+    <p><i class="fa fa-{{ item.icon }} fa-2x" aria-hidden="true"></i></p>
+    <p>{{ item.content }}</p>
+  </div>
+  {% endfor %}
+</div>
+<div class="home__midhero"></div>
+<div class="container">
+  {% for item in page.contents %}
+  <div class="home__highlight--half">
+    <h2>{{ item.title }}</h2>
+    <p>{{ item.content }}</p>
+  </div>
+  {% endfor %}
+</div>
