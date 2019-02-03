@@ -92,7 +92,7 @@ img {
   width: calc(25% - 25px);
   float: left;
   margin-left: 20px;
-  background: transparent url(/assets/images/laptop.jpg) no-repeat center 15%/cover; }
+  background: transparent url(/uploads/laptop.jpg) no-repeat center 15%/cover; }
   @media screen and (max-width: 846px) {
     .header__image-1 {
       width: calc(50% - 30px);
@@ -108,7 +108,7 @@ img {
   width: calc(33.3333333333% - 26.6666666667px);
   float: left;
   margin-left: 20px;
-  background: transparent url(/assets/images/friends.jpg) no-repeat center 15%/cover; }
+  background: transparent url(/uploads/friends.jpg) no-repeat center 15%/cover; }
   @media screen and (max-width: 846px) {
     .header__image-3 {
       width: calc(50% - 30px);
@@ -122,7 +122,7 @@ img {
   width: calc(41.6666666667% - 28.3333333333px);
   float: left;
   margin-left: 20px;
-  background: transparent url(/assets/images/dance.jpg) no-repeat center 15%/cover; }
+  background: transparent url(/uploads/dance.jpg) no-repeat center 15%/cover; }
   @media screen and (max-width: 846px) {
     .header__image-5 {
       display: none; } }
@@ -131,7 +131,7 @@ img {
   width: calc(41.6666666667% - 28.3333333333px);
   float: left;
   margin-left: 20px;
-  background: transparent url(/assets/images/fieldtrip.jpg) no-repeat center 15%/cover; }
+  background: transparent url(/uploads/fieldtrip.jpg) no-repeat center 15%/cover; }
   @media screen and (max-width: 846px) {
     .header__image-6 {
       display: none; } }
@@ -140,7 +140,7 @@ img {
   width: calc(58.3333333333% - 31.6666666667px);
   float: left;
   margin-left: 20px;
-  background: transparent url(/assets/images/middle.jpg) no-repeat center 15%/cover; }
+  background: transparent url(/uploads/middle.jpg) no-repeat center 15%/cover; }
   @media screen and (max-width: 846px) {
     .header__image-8 {
       width: calc(100% - 40px);
@@ -207,7 +207,7 @@ img {
       margin-left: 20px; } }
 
 .home__midhero {
-  background: transparent url(/assets/images/midhero.jpg) no-repeat center 40%/cover;
+  background: transparent url(/uploads/midhero.jpg) no-repeat center 40%/cover;
   height: 300px;
   margin: 2.5rem 0; }
 
