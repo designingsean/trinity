@@ -1,7 +1,6 @@
 ---
 layout: sidebar
 title: Enrollment
-
 ---
 Trinity Classical Academy values diversity and admits qualified students of any race, color, gender, national or ethnic origin and accords or makes available all the rights, privileges, policies, and activities made available to any students at the school. Admission is dependent upon sufficient promise of academic success and parent-student agreement with and subscription to the school’s philosophy and rules. Trinity Classical Academy maintains high standards and expectations; therefore, re-enrollment in succeeding years is based on student achievement, attitude, and parental support.
 
@@ -11,7 +10,7 @@ Trinity Classical Academy values diversity and admits qualified students of any 
 4. Upon records review, student testing is scheduled if needed.
 5. Results of these combined evaluations determine eligibility.
 
-Enrollment for the 2017-2018 school year for grades 1-8 will run through January 31st for current families. Registration will open to the public February 1st.
+Enrollment for the 2018-2019 school year for grades K-8 will run through February 10 for current families. Registration will open to the public February 11.
 
 ## Tuition
 
@@ -21,6 +20,6 @@ Trinity Classical Academy of Summerville is a non-profit organization. It is not
 * Students re-enrolling will register by the February deadline and pay a re-enrollment fee.
 * Space permitting, students enrolling after August will pay pro-rated tuition based on the months attended.
 * Upon enrollment, a tuition contract is required to be signed by both parents and/or legal guardians.
-* Tuition: $4,290 for the 2017-2018 school year.
+* Tuition: $4,500 for the 2019-2020 school year.
 * Three tuition plans are available: annually, bi-annually, or in ten installments. Payments can be made by check.
 * The costs for uniforms, transportation, yearly standardized testing fee, and other incidental expenses are not covered by the registration and tuition fees.
