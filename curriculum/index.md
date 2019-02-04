@@ -1,6 +1,9 @@
 ---
 layout: sidebar
 title: Curriculum
+menu:
+  main:
+    weight: 3
 
 ---
 Classical Christian Education — The curriculum at Trinity Classical Academy of Summerville is based on the Core Knowledge Sequence (the Sequence should not be confused with Common Core).

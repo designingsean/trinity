@@ -1,6 +1,9 @@
 ---
 layout: sidebar
 title: Students
+menu:
+  main:
+    weight: 5
 
 ---
 Trinity Classical Academy holds it’s students to a high standard of citizenship based on the following:

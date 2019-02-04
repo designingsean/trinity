@@ -1,11 +1,5 @@
 ---
 main:
-- url: "/students"
-  title: Students
-  weight: 5
-- url: "/curriculum,"
-  title: Curriculum
-  weight: 3
 - url: "/enrollment"
   title: Enrollment
   weight: 2
