@@ -1,0 +1,22 @@
+---
+label: Faculty
+hide_body: false
+is_partial: true
+fields:
+- type: field_group_list
+  label: Faculty
+  name: faculty
+  fields:
+  - type: text
+    name: name
+    label: Name
+    config:
+      required: true
+  - type: text
+    name: subject
+    label: Subject
+    config:
+      required: true
+  - type: file
+    name: image
+    label: Image
