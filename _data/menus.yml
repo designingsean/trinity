@@ -1,5 +1,1 @@
----
-main:
-- url: "/enrollment"
-  title: Enrollment
-  weight: 2
+--- {}

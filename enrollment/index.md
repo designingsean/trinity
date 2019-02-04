@@ -1,6 +1,10 @@
 ---
 layout: sidebar
 title: Enrollment
+menu:
+  main:
+    weight: 2
+
 ---
 Trinity Classical Academy values diversity and admits qualified students of any race, color, gender, national or ethnic origin and accords or makes available all the rights, privileges, policies, and activities made available to any students at the school. Admission is dependent upon sufficient promise of academic success and parent-student agreement with and subscription to the school’s philosophy and rules. Trinity Classical Academy maintains high standards and expectations; therefore, re-enrollment in succeeding years is based on student achievement, attitude, and parental support.
 
