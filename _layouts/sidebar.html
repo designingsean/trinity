@@ -11,7 +11,8 @@
         {{ content }}
       </div>
       <div class="sidebar">
-        {% include_relative sidebar.md %}
+        {% capture sidebar-include %}{% include_relative sidebar.md %}{% endcapture %}
+        {{ sidebar-include | markdownify }}
       </div>
     </div>
     {% include footer.html %}

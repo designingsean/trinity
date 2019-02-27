@@ -1,7 +1,4 @@
----
-
----
-### Enrollment Docs
+## Enrollment Docs
 
 * [Admissions Process](/uploads/admissions_process.pdf)
 * [Admission Form](/uploads/admission_form.pdf)

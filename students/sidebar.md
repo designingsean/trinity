@@ -1,7 +1,4 @@
----
-
----
-### Student Docs
+## Student Docs
 
 * [School Calendar](/uploads/school_calendar.pdf)
 * [Supply List](/uploads/supply_list.pdf)
@@ -9,7 +6,7 @@
 * [Laptop Information](/uploads/laptop_information.pdf)
 * [Pick Up Permission Form](/uploads/pickup_permission_sheet.pdf)
 
-### Supply Lists
+## Supply Lists
 
 * [1st Grade](/uploads/1st-grade-supply-list.pdf)
 * [2nd Grade](/uploads/2nd-grade-supply-list.pdf)
