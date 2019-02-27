@@ -22,3 +22,5 @@ Trinity Classical Academy has many extracurricular activities students can parti
 * Tennis
 * Art
 * Musical Theater
+* Yearbook
+* Chess

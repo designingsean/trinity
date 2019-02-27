@@ -5,3 +5,4 @@
 * [Tuition Contract](/uploads/tuition_contract.pdf)
 * [Record Request](/uploads/student_record_request.pdf)
 * [Medication Form](/uploads/prescription_medication_form.pdf)
+* [Pick Up Permission Form](/uploads/pickup_permission_sheet.pdf)

@@ -1,10 +1,8 @@
 ## Student Docs
 
 * [School Calendar](/uploads/school_calendar.pdf)
-* [Supply List](/uploads/supply_list.pdf)
 * [Uniform Information](/uploads/uniform_information.pdf)
-* [Laptop Information](/uploads/laptop_information.pdf)
-* [Pick Up Permission Form](/uploads/pickup_permission_sheet.pdf)
+* [Laptop Information](/uploads/laptop_information.pdf)s
 
 ## Supply Lists
 

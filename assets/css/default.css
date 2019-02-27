@@ -94,7 +94,7 @@ img {
   width: calc(25% - 25px);
   float: left;
   margin-left: 20px;
-  background: transparent url(/uploads/{{ site.data.global.image1 }}) no-repeat center 15%/cover; }
+  background: transparent url(/uploads/image1.jpg) no-repeat center 15%/cover; }
   @media screen and (max-width: 846px) {
     .header__image-1 {
       width: calc(50% - 30px);
@@ -110,7 +110,7 @@ img {
   width: calc(33.3333333333% - 26.6666666667px);
   float: left;
   margin-left: 20px;
-  background: transparent url(/uploads/{{ site.data.global.image2 }}) no-repeat center 15%/cover; }
+  background: transparent url(/uploads/image2.jpg) no-repeat center 15%/cover; }
   @media screen and (max-width: 846px) {
     .header__image-2 {
       width: calc(50% - 30px);
@@ -124,7 +124,7 @@ img {
   width: calc(41.6666666667% - 28.3333333333px);
   float: left;
   margin-left: 20px;
-  background: transparent url(/uploads/{{ site.data.global.image3 }}) no-repeat center 15%/cover; }
+  background: transparent url(/uploads/image3.jpg) no-repeat center 15%/cover; }
   @media screen and (max-width: 846px) {
     .header__image-3 {
       display: none; } }
@@ -133,7 +133,7 @@ img {
   width: calc(41.6666666667% - 28.3333333333px);
   float: left;
   margin-left: 20px;
-  background: transparent url(/uploads/{{ site.data.global.image4 }}) no-repeat center 15%/cover; }
+  background: transparent url(/uploads/image4.jpg) no-repeat center 15%/cover; }
   @media screen and (max-width: 846px) {
     .header__image-4 {
       display: none; } }
@@ -142,7 +142,7 @@ img {
   width: calc(58.3333333333% - 31.6666666667px);
   float: left;
   margin-left: 20px;
-  background: transparent url(/uploads/{{ site.data.global.image5 }}) no-repeat center 15%/cover; }
+  background: transparent url(/uploads/image5.jpg) no-repeat center 15%/cover; }
   @media screen and (max-width: 846px) {
     .header__image-5 {
       width: calc(100% - 40px);
@@ -227,7 +227,7 @@ img {
   color: #fff;
   font-size: 1.3rem;
   font-weight: 700;
-  height: 400px;
+  height: 375px;
   padding-top: 50%;
   text-align: center;
   width: 300px; }
